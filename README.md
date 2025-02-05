@@ -16,7 +16,7 @@ Do you want to get to know *Feeling Responsive*? Than check it out first and hav
 To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
 And what license is *Feeling Responsive* released under? [This one][2].
-#
+
 
 
 ## Why use this theme?
